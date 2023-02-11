@@ -1,0 +1,108 @@
+.mstheme
+{
+	separator-image: url(arcsepa.gif);
+	list-image-1: url(arcbul1a.gif);
+	list-image-2: url(arcbul2a.gif);
+	list-image-3: url(arcbul3a.gif);
+	nav-banner-image: url(arcbanna.gif);
+	navbutton-horiz-normal: url(arcnavha.gif);
+	navbutton-horiz-hovered: url(arcnavhh.gif);
+	navbutton-horiz-pushed: url(arcnavhp.gif);
+	navbutton-vert-normal: url(arcnavva.gif);
+	navbutton-vert-hovered: url(arcnavvh.gif);
+	navbutton-vert-pushed: url(arcnavvp.gif);
+	navbutton-home-normal: url(archomea.gif);
+	navbutton-home-hovered: url(archomeh.gif);
+	navbutton-home-pushed: url(archomea.gif);
+	navbutton-next-normal: url(arcnexta.gif);
+	navbutton-next-hovered: url(arcnexth.gif);
+	navbutton-next-pushed: url(arcnexta.gif);
+	navbutton-prev-normal: url(arcpreva.gif);
+	navbutton-prev-hovered: url(arcprevh.gif);
+	navbutton-prev-pushed: url(arcpreva.gif);
+	navbutton-up-normal: url(arcupa.gif);
+	navbutton-up-hovered: url(arcuph.gif);
+	navbutton-up-pushed: url(arcupa.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: SansSerif;
+	color: rgb(255, 255, 255);
+	font-size: 6;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Terminal;
+	color: rgb(51, 51, 51);
+	font-size: 4;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Terminal;
+	color: rgb(51, 51, 51);
+	font-size: 4;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome
+{
+	font-family: Courier New;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext
+{
+	font-family: Courier New;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev
+{
+	font-family: Courier New;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup
+{
+	font-family: Courier New;
+	color: rgb(102, 102, 0);
+	font-size: 2;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+ul
+{
+	list-style-image: url(arcbul1a.gif);
+}
+ul ul
+{
+	list-style-image: url(arcbul2a.gif);
+}
+ul ul ul
+{
+	list-style-image: url(arcbul3a.gif);
+}
