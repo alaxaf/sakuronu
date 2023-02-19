@@ -1,0 +1,46 @@
+[info]
+refcount=1
+version=1.04
+readonly=0
+codepage=65001
+format=2
+title=Courier New Arcs
+[titles]
+1033=Courier New Arcs
+[Fonts]
+windows-1250, COURIER NEW=Courier New
+windows-1251, COURIER NEW=Courier New
+windows-1253, COURIER NEW=Courier New
+windows-1254, COURIER NEW=Courier New
+windows-1255, COURIER NEW=Courier New
+windows-1256, COURIER NEW=Courier New
+windows-1257, COURIER NEW=Courier New
+windows-874, COURIER NEW=Tahoma
+shift_jis, COURIER NEW=ＭＳ Ｐゴシック
+gb2312, COURIER NEW=宋体
+ks_c_5601-1987, COURIER NEW=돋움
+big5, COURIER NEW=新細明體
+windows-1250, TERMINAL=Arial
+windows-1251, TERMINAL=Arial
+windows-1253, TERMINAL=Arial
+windows-1254, TERMINAL=Arial
+windows-1255, TERMINAL=Arial
+windows-1256, TERMINAL=Arial
+windows-1257, TERMINAL=Arial
+windows-874, TERMINAL=Tahoma
+shift_jis, TERMINAL=ＭＳ Ｐゴシック
+gb2312, TERMINAL=宋体
+ks_c_5601-1987, TERMINAL=돋움
+big5, TERMINAL=新細明體
+windows-1250, SANSSERIF=Arial
+windows-1251, SANSSERIF=Arial
+windows-1253, SANSSERIF=Arial
+windows-1254, SANSSERIF=Arial
+windows-1255, SANSSERIF=Arial
+windows-1256, SANSSERIF=Arial
+windows-1257, SANSSERIF=Arial
+windows-874, SANSSERIF=Tahoma
+shift_jis, SANSSERIF=ＭＳ Ｐゴシック
+gb2312, SANSSERIF=宋体
+ks_c_5601-1987, SANSSERIF=돋움
+big5, SANSSERIF=新細明體
